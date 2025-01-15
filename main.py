@@ -17,3 +17,4 @@ def api_intro():
 
 
     
+app.run(port=3025)
